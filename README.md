@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @The-ultimate-DS
+- 👀 I’m interested in ML projects
+- 🌱 I’m currently learning logistic regression
+- 💞️ I’m looking to collaborate on health based projects
